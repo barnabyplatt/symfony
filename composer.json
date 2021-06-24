@@ -37,7 +37,8 @@
         "symfony/polyfill-intl-icu": "~1.0",
         "symfony/polyfill-mbstring": "~1.0",
         "symfony/polyfill-php56": "~1.0",
-        "symfony/polyfill-php70": "~1.6"
+        "symfony/polyfill-php70": "~1.6",
+        "symfony/proxy-manager-bridge": "3.4.0"
     },
     "replace": {
         "symfony/asset": "self.version",
@@ -70,7 +71,6 @@
         "symfony/process": "self.version",
         "symfony/property-access": "self.version",
         "symfony/property-info": "self.version",
-        "symfony/proxy-manager-bridge": "self.version",
         "symfony/routing": "self.version",
         "symfony/security": "self.version",
         "symfony/security-core": "self.version",
