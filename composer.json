@@ -38,7 +38,7 @@
         "symfony/polyfill-mbstring": "~1.0",
         "symfony/polyfill-php56": "~1.0",
         "symfony/polyfill-php70": "~1.6",
-        "symfony/proxy-manager-bridge": "3.4.0"
+        "symfony/proxy-manager-bridge": "3.4.99"
     },
     "replace": {
         "symfony/asset": "self.version",
